@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Product>Bluehill.Vhd</Product>
     <PackageProjectUrl>https://na1307.github.io/Bluehill.Vhd</PackageProjectUrl>
-    <PackageTags>Vhd;na1307;bluehill</PackageTags>
+    <PackageTags>vhd;vhdx;na1307;bluehill</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageReleaseNotes>https://na1307.github.io/Bluehill.Vhd/CHANGELOG.html</PackageReleaseNotes>

@@ -81,7 +81,7 @@ public static partial class VhdFunctions {
         var result = NativeMethods.CreateVirtualDisk(
             in vst,
             path,
-            VirtualDiskAccessMask.Create,
+            VirtualDiskAccessMask.All,
             IntPtr.Zero,
             parent is not null && isFixed ? CreateVirtualDiskOptions.FullPhysicalAllocation : CreateVirtualDiskOptions.None,
             0,

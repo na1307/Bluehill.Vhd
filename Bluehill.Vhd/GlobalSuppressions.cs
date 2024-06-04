@@ -5,5 +5,4 @@
 
 using System.Diagnostics.CodeAnalysis;
 
-#pragma warning disable RCS0056
 [assembly: SuppressMessage("Design", "CA1028:열거형 스토리지는 Int32여야 합니다", Justification = "<보류 중>", Scope = "type", Target = "~T:Bluehill.Vhd.Internal.VirtualStorageTypeDevice")]
